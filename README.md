@@ -3,7 +3,7 @@
 Also known as the **[Serial Number System](https://devforum.roblox.com/t/-/3192994)**.  
 A lightweight and improved way to generate unique serial IDs. <br>
 This is a very basic system, so please don’t expect anything advanced.. <br>
-# NOTE : USE RBLX format I forgot to commit the rest 
+# NOTE : USE RBXL format I forgot to commit the rest 
 
 ---
 

@@ -8,6 +8,7 @@ function module:Cooldown(player: Player, duration: Number)
     duration = duration or Config.COOLDOWN.COOLDOWN_DURATION
     if module.ActivePlayers[player.UserId] then
         if module.ActivePlayers[player.UserId] + duration > tick() then
+            print("Cooldown bro")
             return false --// No 
         else
             module.ActivePlayers[player.UserId] = tick()

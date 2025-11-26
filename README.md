@@ -28,7 +28,7 @@ return {
         EXPIRATION_TIME = 3888000,      -- 45 days in seconds
 
         AUTO_SAVE = {
-            ENABLED = true,             -- Enable/disable auto-saving
+            ENABLED = true,             -- Enable/disable auto-saving ( for upcoming purposes ? )
             INTERVAL = 300,             -- Auto-save every 5 minutes
             LIST = {                    -- Keys to auto-save
                 "Test1",

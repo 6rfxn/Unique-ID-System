@@ -1,9 +1,13 @@
 # 🌟 Unique ID System (22/11/25)
 
 Also known as the **[Serial Number System](https://devforum.roblox.com/t/-/3192994)**.  
-A lightweight and improved way to generate unique serial IDs. <br>
-This is a very basic system, so please don’t expect anything advanced.. <br>
-# NOTE : USE RBXL format I forgot to commit the rest 
+A lightweight and improved way to generate unique serial IDs. <br><br>
+
+# Note ⚠️
+
+- __MemoryStoreServices__ has limited access, so I tested it with an average of __1k CCU__, and it worked fine.
+- Use it for __small tasks__, not large transactions, because those can slow down your game.
+- If you're planning for __high CCU__, I recommend __not using it__. <br><br>
 
 ---
 

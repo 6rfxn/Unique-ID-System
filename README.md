@@ -5,7 +5,7 @@ A lightweight and improved way to generate unique serial IDs. <br><br>
 
 # Note ⚠️
 
-- __MemoryStoreServices__ has limited access, so I tested it with an average of __1k CCU__, and it worked fine.
+- __[MemoryStoreServices](https://create.roblox.com/docs/reference/engine/classes/MemoryStoreService)__ has limited access, so I tested it with an average of __1k CCU__, and it worked fine.
 - Use it for __small tasks__, not large transactions, because those can slow down your game.
 - If you're planning for __high CCU__, I recommend __not using it__. <br><br>
 

@@ -30,7 +30,7 @@ return {
         AUTO_SAVE = {
             ENABLED = true,             -- Enable/disable auto-saving ( for upcoming purposes ? )
             INTERVAL = 300,             -- Auto-save every 5 minutes
-            LIST = {                    -- Keys to auto-save
+            LIST = {                    -- Keys to auto-save ( Example !! )
                 "Test1",
                 "Test2"
             }
